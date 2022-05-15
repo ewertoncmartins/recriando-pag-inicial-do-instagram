@@ -7,6 +7,10 @@
 
 
 - Consegui aplicar os conhecimentos de HTML e CSS3;
-- Pratiquei os conhecimentos de Git e GitHub;
 - Inclusão dos links para download do app do instagram para as respectivas plataformas.
 
+
+
+#### Desafios: 
+
+1. Tive um pouco de dificuldade em resolver um conflito de Git/GitHub;
